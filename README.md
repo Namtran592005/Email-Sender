@@ -14,9 +14,9 @@ Email Sender là ứng dụng Android giúp bạn soạn **email HTML dạng th�
 | :-: | :-: | :-: |
 | <img src="Screenshots/ccv&bcc.jpg" width="220" alt="Cc/Bcc"> | <img src="Screenshots/bcclist.jpg" width="220" alt="Danh sách Cc/Bcc"> | <img src="Screenshots/emaildaguichitiet.jpg" width="220" alt="Chi tiết thư đã gửi"> |
 
-| Thư nhận được |
-| :-: |
-| <img src="Screenshots/gmailnguoinhan.jpg" width="220" alt="Thư người nhận nhận được"> |
+| Thư người nhận nhận được (mobile) | Thư người nhận nhận được (desktop) |
+| :-: | :-: |
+| <img src="Screenshots/gmailnguoinhan-mobile.jpg" width="220" alt="Thư hiển thị trên điện thoại"> | <img src="Screenshots/gmailnguoinhan-desktop.jpg" width="220" alt="Thư hiển thị trên máy tính"> |
 
 ## Tính năng
 
