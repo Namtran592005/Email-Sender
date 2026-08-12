@@ -1,6 +1,22 @@
 # Email Sender
 
-Ứng dụng Android gửi email HTML dạng thư tay, viết bằng **Expo (React Native)**. Soạn thư rich text (in đậm, nghiêng, gạch chân, danh sách, trích dẫn, link, màu chữ), xem trước đúng định dạng người nhận, lưu nháp tự động và gửi qua SMTP.
+**Soạn và gửi email chuyên nghiệp, tiện lợi ngay trên điện thoại — đẹp hơn hẳn thư văn bản thông thường.**
+
+Email Sender là ứng dụng Android giúp bạn soạn **email HTML dạng thư tay** với giao diện soạn thảo rich text mượt mà: in đậm, nghiêng, gạch chân, danh sách, trích dẫn, link, màu chữ. Mỗi bức thư được tinh chỉnh chính xác từng chi tiết, xem trước đúng những gì người nhận sẽ thấy rồi mới gửi đi — một giải pháp gọn gàng, chuyên nghiệp thay cho những email trống trơn, đơn điệu.
+
+## Ảnh chụp màn hình
+
+| Trang chủ | Soạn thư | Xem trước |
+| :-: | :-: | :-: |
+| <img src="Screenshots/trangchu.jpg" width="220" alt="Trang chủ"> | <img src="Screenshots/soanemailwrite.jpg" width="220" alt="Soạn thư"> | <img src="Screenshots/soanemailpreview.jpg" width="220" alt="Xem trước"> |
+
+| Cc / Bcc | Danh sách Cc / Bcc | Thư đã gửi |
+| :-: | :-: | :-: |
+| <img src="Screenshots/ccv&bcc.jpg" width="220" alt="Cc/Bcc"> | <img src="Screenshots/bcclist.jpg" width="220" alt="Danh sách Cc/Bcc"> | <img src="Screenshots/emaildaguichitiet.jpg" width="220" alt="Chi tiết thư đã gửi"> |
+
+| Thư nhận được |
+| :-: |
+| <img src="Screenshots/gmailnguoinhan.jpg" width="220" alt="Thư người nhận nhận được"> |
 
 ## Tính năng
 
