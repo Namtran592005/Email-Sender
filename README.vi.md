@@ -8,7 +8,6 @@
 [![React Native](https://img.shields.io/badge/React%20Native-0.86-61DAFB?logo=react&logoColor=black)](#)
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](#)
 [![Android](https://img.shields.io/badge/Android-ready-3DDC84?logo=android&logoColor=black)](#)
-[![License](https://img.shields.io/badge/license-MIT-green)](#license)
 
 [English](README.md) · **Tiếng Việt**
 
@@ -219,6 +218,4 @@ Giới hạn trong mã nguồn:
 
 ## Giấy phép
 
-Dự án dùng giấy phép MIT.
-
-Để sửa lỗi, góp ý hoặc hỏi về bản quyền: [@Namtran592005](https://github.com/Namtran592005).
+Repo hiện chưa có file giấy phép. Để sửa lỗi, góp ý hoặc hỏi về bản quyền: [@Namtran592005](https://github.com/Namtran592005).

@@ -8,7 +8,6 @@
 [![React Native](https://img.shields.io/badge/React%20Native-0.86-61DAFB?logo=react&logoColor=black)](#)
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](#)
 [![Android](https://img.shields.io/badge/Android-ready-3DDC84?logo=android&logoColor=black)](#)
-[![License](https://img.shields.io/badge/license-MIT-green)](#license)
 
 **English** · [Tiếng Việt](README.vi.md)
 
@@ -219,6 +218,4 @@ Limits in code:
 
 ## License
 
-This project is released under the MIT License.
-
-For corrections, feedback, or copyright questions: [@Namtran592005](https://github.com/Namtran592005).
+No license file is currently included in this repository. For corrections, feedback, or copyright questions: [@Namtran592005](https://github.com/Namtran592005).
