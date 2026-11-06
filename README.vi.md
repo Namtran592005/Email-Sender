@@ -8,6 +8,7 @@
 [![React Native](https://img.shields.io/badge/React%20Native-0.86-61DAFB?logo=react&logoColor=black)](#)
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](#)
 [![Android](https://img.shields.io/badge/Android-ready-3DDC84?logo=android&logoColor=black)](#)
+[![License](https://img.shields.io/badge/license-GPL--3.0-blue)](LICENSE)
 
 [English](README.md) · **Tiếng Việt**
 
@@ -193,7 +194,8 @@ Giới hạn trong mã nguồn:
 │       ├── clearData.js          # Xoá toàn bộ dữ liệu cục bộ
 │       └── theme.js              # Bảng màu, font, spacing, shadow
 ├── Screenshots/                  # Ảnh chụp ứng dụng
-└── README.md                     # Tài liệu tiếng Anh
+├── LICENSE                       # GNU General Public License v3.0
+├── README.md                     # Tài liệu tiếng Anh
 └── README.vi.md                  # Tài liệu tiếng Việt
 ```
 
@@ -218,4 +220,8 @@ Giới hạn trong mã nguồn:
 
 ## Giấy phép
 
-Repo hiện chưa có file giấy phép. Để sửa lỗi, góp ý hoặc hỏi về bản quyền: [@Namtran592005](https://github.com/Namtran592005).
+Dự án được cấp phép theo [GNU General Public License v3.0](LICENSE) (GPL-3.0).
+
+Bản quyền © 2026 [@Namtran592005](https://github.com/Namtran592005).
+
+Để sửa lỗi, góp ý hoặc hỏi về bản quyền: [@Namtran592005](https://github.com/Namtran592005).
